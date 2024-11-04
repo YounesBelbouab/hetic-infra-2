@@ -1,0 +1,12 @@
+{
+  "name": "hetic-infra-2",
+  "version": "1.0.0",
+  "description": "Ce TP a pour but de vous familiariser avec les bases de la conception d'infrastructures en utilisant des technologies de conteneurisation et de déploiement sur le cloud. Vous apprendrez à conteneuriser une application web, à la déployer sur AWS, et à mettre en place des mesures de sécurité de base, telles que la gestion des droits d'accès.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
