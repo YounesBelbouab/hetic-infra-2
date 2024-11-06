@@ -1,0 +1,8 @@
+FROM node:22.11.0-alpine
+RUN yarn install --production && \
+    adduser -u 8877 -D random
+USER random 
+WORKDIR /app
+COPY . .
+EXPOSE 80
+CMD ["npm", "start"]
