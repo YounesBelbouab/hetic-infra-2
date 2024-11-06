@@ -10,4 +10,4 @@ L'utilisation d'un sous réseaux sera aussi utilie pour en avoir un par availabi
 
 Enfin il faudra ajouter un security groups pour la sécurité.
 
-![image info](C:\Users\Belbouab\Desktop\Archi et infra\hetic-infra-2\image_foad.png)
+![image du schéma](image_foad.png)
